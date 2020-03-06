@@ -1,4 +1,4 @@
-console.log('INFO: Reading interaction.js');
+/*console.log('INFO: Reading interaction.js');
 
 console.log('INFO: Getting access to elements');
 
@@ -19,6 +19,7 @@ const calcAreaTest = (radius) => {
 
   return 2 * Math.PI * (radius * radius);
 }
+*/
 
 console.log('INFO: Configuring event handlers');
 
